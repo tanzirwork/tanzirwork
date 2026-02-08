@@ -1,3 +1,6 @@
+![logo](https://github.com/devtanzir/devtanzir/blob/main/banner.gif)
+
+
 <h1 align="left">Hey, What's up?</h1>
 
 ###
@@ -76,13 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
