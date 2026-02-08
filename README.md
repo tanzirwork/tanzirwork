@@ -1,7 +1,5 @@
 <h1 align="left">Hey, What's up?</h1>
 
-![logo](https://github.com/devtanzir/devtanzir/blob/main/banner.gif)
-
 ###
 
 <p align="left">I write code that (usually) works. 😜 Full-stack Developer | Open Source contributor | Converting caffeine into clean components.</p>
@@ -12,7 +10,17 @@
 
 ###
 
-<p align="left">I am Tanzir Ibne Ali, a dedicated Frontend Developer from Bangladesh with a keen eye for creating seamless and interactive user experiences. My journey in web development is driven by curiosity and the constant urge to build things that solve real-world problems.<br><br>-  What I do: Currently, I focus on building modern web applications using Next.js, TypeScript, and Tailwind CSS.<br>-  Current Mission: I am leveling up my skills to become a Full-stack Developer, diving deep into the MERN Stack (MongoDB, Express.js, React, Node.js).<br>-  Philosophy: I believe that coding is an art. I strive to write clean, maintainable, and efficient code that not only works but also provides a great developer experience.<br>- Learning: Exploring the depths of Node.js and System Architecture to build scalable backend solutions.<br>- Ask me about: React, Frontend performance, or why I think UI/UX matters as much as the code itself!<br><br>When I'm not coding, I'm usually exploring new tech trends, contributing to projects, or thinking about my next "joss" idea!</p>
+<img align="right" height="250" src="https://imgs.search.brave.com/8DESp-U6YLpfz2an2cfRw3RegYejVKKSUHk3s7gA2Y8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbU01YVdka2VI/ZHplamcyZEdaMmNH/VXphV1pzTlhwcU5X/bDJlalUwTVhremJq/WnBZekE1ZFNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vR2doR0thWjhK/ZUhKeDBhcFFDL2dp/cGh5LmdpZg.gif"  />
+
+###
+
+<h6 align="left">I am Tanzir Ibne Ali, a dedicated Frontend Developer from Bangladesh with a keen eye for creating seamless and interactive user experiences. My journey in web development is driven by curiosity and the constant urge to build things that solve real-world problems.<br><br>-  What I do: Currently, I focus on building modern web applications using Next.js, TypeScript, and Tailwind CSS.<br>-  Current Mission: I am leveling up my skills to become a Full-stack Developer, diving deep into the MERN Stack (MongoDB, Express.js, React, Node.js).<br>-  Philosophy: I believe that coding is an art. I strive to write clean, maintainable, and efficient code that not only works but also provides a great developer experience.<br>- Learning: Exploring the depths of Node.js and System Architecture to build scalable backend solutions.<br>- Ask me about: React, Frontend performance, or why I think UI/UX matters as much as the code itself!<br><br>When I'm not coding, I'm usually exploring new tech trends, contributing to projects, or thinking about my next "joss" idea!</h6>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:tanzirwork?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
@@ -67,8 +75,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
-<img src="https://imgs.search.brave.com/8DESp-U6YLpfz2an2cfRw3RegYejVKKSUHk3s7gA2Y8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbU01YVdka2VI/ZHplamcyZEdaMmNH/VXphV1pzTlhwcU5X/bDJlalUwTVhremJq/WnBZekE1ZFNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vR2doR0thWjhK/ZUhKeDBhcFFDL2dp/cGh5LmdpZg.gif" align="right" width="400px" alt="coder"/>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -83,14 +97,5 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@tanziribneali/2" alt="Medium post 3"  />
   </a>
 </div>
-
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:tanzirwork?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-
 
 ###
