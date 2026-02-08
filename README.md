@@ -1,5 +1,7 @@
 <h1 align="left">Hey, What's up?</h1>
 
+![logo](https://github.com/devtanzir/devtanzir/blob/main/banner.gif)
+
 ###
 
 <p align="left">I write code that (usually) works. 😜 Full-stack Developer | Open Source contributor | Converting caffeine into clean components.</p>
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">I am **Tanzir Ibne Ali**, a dedicated **Frontend Developer** from Bangladesh with a keen eye for creating seamless and interactive user experiences. My journey in web development is driven by curiosity and the constant urge to build things that solve real-world problems.<br><br>-  **What I do:** Currently, I focus on building modern web applications using **Next.js, TypeScript, and Tailwind CSS**.<br>-  **Current Mission:** I am leveling up my skills to become a **Full-stack Developer**, diving deep into the **MERN Stack** (MongoDB, Express.js, React, Node.js).<br>-  **Philosophy:** I believe that coding is an art. I strive to write clean, maintainable, and efficient code that not only works but also provides a great developer experience.<br>- **Learning:** Exploring the depths of **Node.js** and **System Architecture** to build scalable backend solutions.<br>- **Ask me about:** React, Frontend performance, or why I think UI/UX matters as much as the code itself!<br><br>When I'm not coding, I'm usually exploring new tech trends, contributing to projects, or thinking about my next "joss" idea!</p>
+<p align="left">I am <bold>Tanzir Ibne Ali</bold>, a dedicated **Frontend Developer** from Bangladesh with a keen eye for creating seamless and interactive user experiences. My journey in web development is driven by curiosity and the constant urge to build things that solve real-world problems.<br><br>-  **What I do:** Currently, I focus on building modern web applications using **Next.js, TypeScript, and Tailwind CSS**.<br>-  **Current Mission:** I am leveling up my skills to become a **Full-stack Developer**, diving deep into the **MERN Stack** (MongoDB, Express.js, React, Node.js).<br>-  **Philosophy:** I believe that coding is an art. I strive to write clean, maintainable, and efficient code that not only works but also provides a great developer experience.<br>- **Learning:** Exploring the depths of **Node.js** and **System Architecture** to build scalable backend solutions.<br>- **Ask me about:** React, Frontend performance, or why I think UI/UX matters as much as the code itself!<br><br>When I'm not coding, I'm usually exploring new tech trends, contributing to projects, or thinking about my next "joss" idea!</p>
 
 ###
 
@@ -100,6 +102,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tanzirwork/tanzirwork/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ###
